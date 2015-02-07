@@ -1,0 +1,17 @@
+INDEX VERSION 1.127+/home/acs/workspaces/starting-spring/.metadata/.plugins/org.eclipse.jdt.core
+4138176037.index
+3274165286.index
+759634049.index
+927733388.index
+1386647516.index
+1070788010.index
+2435983215.index
+488527426.index
+4196892199.index
+1184931099.index
+1311157570.index
+3569237257.index
+2016060422.index
+4175669222.index
+2876782024.index
+4250576200.index
